@@ -16,7 +16,7 @@ spec:
         app: github-webapp
     spec:
       containers:
-      - image: ghcr.io/cmarquetand/webapp:1.0.21
+      - image: ghcr.io/cmarquetand/webapp:1.0.27
         name: github-webapp
         #imagePullPolicy: Always
         #ports:
